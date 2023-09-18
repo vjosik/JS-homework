@@ -7,3 +7,8 @@ function calc (number) {
     }
     return a;
 }
+
+function toDo (){
+    const arr = []
+    return arr;
+}
